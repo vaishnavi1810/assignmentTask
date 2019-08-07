@@ -1,0 +1,15 @@
+.sidePanel{
+    border:2px blue solid;
+    margin-top: -2%;
+    
+    background-color:#6a5acd;
+ 
+    height: 681px;
+    align-items: stretch;
+}
+
+.but{
+    background-color: #6a5acd;
+    margin-left: 40px;
+    font-size: 1.1em;
+}
